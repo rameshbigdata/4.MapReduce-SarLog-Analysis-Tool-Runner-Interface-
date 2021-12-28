@@ -1,0 +1,2 @@
+HostName	TimeStamp			    CPU        %user       %nice    %system      %iowait     %steal   %idle
+phddn001        240613,20:44        Average:        all        4.05        0        10.17        0.02        0        85.76
